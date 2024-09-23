@@ -10,7 +10,18 @@ public class PilaConStack {
         pila.push("Edgar");
         pila.push("María");
         pila.push("Peter");
-
         System.out.println("Elementos de la pila: " + pila);
+
+        pila.pop();
+        System.out.println("Elementos de la pila: " + pila);
+    
+        pila.add("Ana");
+        System.out.println("Elementos de la pila: " + pila);
+
+        pila.addFirst("Pepe");
+        System.out.println("Elementos de la pila: " + pila);
+
+        System.out.println("Elementos de la pila: " + pila.peek());
+
     }
 }
