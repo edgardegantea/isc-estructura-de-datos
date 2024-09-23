@@ -1,9 +1,19 @@
 import com.degante.pilas.Pila;
+import com.degante.pilas.PilaConStack;
 import java.util.Scanner;
 
 public class Main {
+
+
     public static void main(String[] args) {
-        operacionesDePila();
+        // operacionesDePila();
+        miStack();
+    }
+
+
+    public static void miStack() {
+        PilaConStack pilaConStack = new PilaConStack();
+        pilaConStack.metodo01();
     }
 
 
