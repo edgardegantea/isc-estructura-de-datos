@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/U01/Arreglos/Arreglos.iml" filepath="$PROJECT_DIR$/U01/Arreglos/Arreglos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/U01/BigO/BigO.iml" filepath="$PROJECT_DIR$/U01/BigO/BigO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/isc-estructura-de-datos.iml" filepath="$PROJECT_DIR$/isc-estructura-de-datos.iml" />
+    </modules>
+  </component>
+</project>
