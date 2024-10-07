@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
-    <bytecodeTargetLevel>
-      <module name="isc-estructura-de-datos" target="" />
+    <bytecodeTargetLevel target="17">
+      <module name="Arreglos" target="17" />
+      <module name="BigO" target="17" />
+      <module name="isc-estructura-de-datos" target="17" />
     </bytecodeTargetLevel>
   </component>
 </project>
